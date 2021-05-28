@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   fill="none"
+   version="1.1"
+   id="svg37"
+   sodipodi:docname="panther-question.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="12.96875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37" />
+  <mask
+     id="A"
+     width="58"
+     height="58"
+     x="3"
+     y="3"
+     mask-type="alpha"
+     maskUnits="userSpaceOnUse">
+    <path
+       fill="#c4c4c4"
+       d="M60.667 32c0 15.832-12.834 28.667-28.667 28.667S3.333 47.832 3.333 32 16.168 3.333 32 3.333 60.667 16.168 60.667 32z"
+       id="path4" />
+  </mask>
+  <defs
+     id="defs35">
+    <path
+       id="C"
+       d="M28.522 50.923c0 2.06-1.113 3.73-2.486 3.73s-2.486-1.67-2.486-3.73 1.113-3.73 2.486-3.73 2.486 1.67 2.486 3.73z" />
+    <path
+       id="D"
+       d="M25.68 48.03c.507.76.852 1.867.852 3.14 0 .55.445.994.994.994s.994-.445.994-.994c0-1.61-.433-3.114-1.186-4.243-.748-1.123-1.89-1.972-3.288-1.972s-2.54.85-3.288 1.972c-.753 1.13-1.186 2.633-1.186 4.243 0 .873.127 1.71.36 2.47.16.525.717.82 1.242.66s.82-.717.66-1.242c-.173-.566-.273-1.205-.273-1.887 0-1.273.346-2.38.852-3.14.51-.767 1.108-1.086 1.634-1.086s1.122.32 1.634 1.086z" />
+  </defs>
+</svg>
