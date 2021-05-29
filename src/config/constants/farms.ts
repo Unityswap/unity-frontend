@@ -20,7 +20,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'RYIP-BNB LP',
     lpAddresses: {
       97: '0x0cF1D2E4cdc1F2c1DF7dc2A92ffcDa6212682d7E',
-      56: '0x615440d1Fa630A549bc80549bC3595668BAd78EE',
+      56: '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0',
     },
     token: tokens.ryip,
     quoteToken: tokens.wbnb,
@@ -30,7 +30,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xA7829dD2C96c68104eB4cfb4126b8A4A2e271dB4',
+      56: '0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16',
     },
     token: tokens.busd,
     quoteToken: tokens.wbnb,
