@@ -1,5 +1,5 @@
 import { useCallback } from 'react'
-import { useWeb3React, RyipupportedChainIdError } from '@web3-react/core'
+import { useWeb3React,  UnsupportedChainIdError } from '@web3-react/core'
 import { NoBscProviderError } from '@binance-chain/bsc-connector'
 import {
   NoEthereumProviderError,
@@ -25,7 +25,7 @@ const useAuth = () => {
     const connector = connectorsByName[connectorID]
     if (connector) {
       activate(connector, async (error: Error) => {
-        if (error instanceof RyipupportedChainIdError) {
+        if (error instanceof  UnsupportedChainIdError) {
           const hasSetup = await setupNetwork()
           if (hasSetup) {
             activate(connector)
