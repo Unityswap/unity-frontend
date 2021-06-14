@@ -325,7 +325,7 @@
   "%num% of total": "합계의 %num%",
   "All estimated rates take into account this pool's %fee%% performance fee": "모든 예상 비율에는 이 풀의 %fee%% 성과 수수료가 고려됩니다.",
   "Sorry, you didn’t contribute enough LP tokens to meet the minimum threshold. You didn’t buy anything in this sale, but you can still reclaim your LP tokens.": "죄송합니다. 최소 임계값을 충족하기에 충분한 LP 토큰을 제공하지 않았습니다. 이 판매에서 구입한 적이 없지만 LP 토큰을 다시 클레임할 수는 있습니다.",
-  "Only applies within 3 days of staking. Ryiptaking after 3 days will not include a fee. Timer resets every time you stake new RYIP in the pool.": "예치 후 3일 내에만 적용됩니다. 3일 후 예치 취소하면 수수료가 포함되지 않습니다. 풀에서 새로운 RYIP를 예치할 때마다 타이머가 재설정됩니다.",
+  "Only applies within 3 days of staking. Unstaking after 3 days will not include a fee. Timer resets every time you stake new RYIP in the pool.": "예치 후 3일 내에만 적용됩니다. 3일 후 예치 취소하면 수수료가 포함되지 않습니다. 풀에서 새로운 RYIP를 예치할 때마다 타이머가 재설정됩니다.",
   "unstaking fee until": "다음까지 수수료 예치 취소:",
   "unstaking fee if withdrawn within 72h": "72시간 내에 인출하는 경우 수수료 예치 취소",
   "Unstaking fee: %fee%%": "수수료 예치 취소: %fee%%",

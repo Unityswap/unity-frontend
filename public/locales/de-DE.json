@@ -325,7 +325,7 @@
   "%num% of total": "%num% von Gesamt",
   "All estimated rates take into account this pool's %fee%% performance fee": "Alle geschätzten Raten berücksichtigen die %fee%% Performance-Gebühr dieses Pools",
   "Sorry, you didn’t contribute enough LP tokens to meet the minimum threshold. You didn’t buy anything in this sale, but you can still reclaim your LP tokens.": "Leider haben Sie nicht genug LP-Token beigetragen, um die Mindestgrenze zu erreichen. Sie haben bei diesem Verkauf nichts gekauft, aber Sie können Ihre LP-Tokens trotzdem zurückfordern.",
-  "Only applies within 3 days of staking. Ryiptaking after 3 days will not include a fee. Timer resets every time you stake new RYIP in the pool.": "Gilt nur innerhalb von 3 Tagen nach dem Einsetzen. Für das Entfernen des Einsatzes nach 3 Tagen wird keine Gebühr erhoben. Der Timer wird jedes Mal zurückgesetzt, wenn Sie neue RYIP im Pool einsetzen.",
+  "Only applies within 3 days of staking. Unstaking after 3 days will not include a fee. Timer resets every time you stake new RYIP in the pool.": "Gilt nur innerhalb von 3 Tagen nach dem Einsetzen. Für das Entfernen des Einsatzes nach 3 Tagen wird keine Gebühr erhoben. Der Timer wird jedes Mal zurückgesetzt, wenn Sie neue RYIP im Pool einsetzen.",
   "unstaking fee until": "eingesetzte Gebühr entfernen bis",
   "unstaking fee if withdrawn within 72h": "eingesetzte Gebühr wird entfernt, wenn innerhalb von 72 Stunden abgehoben wird",
   "Unstaking fee: %fee%%": "Einsatz der Gebühr wird aufgehoben: %fee%",

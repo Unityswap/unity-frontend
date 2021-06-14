@@ -325,7 +325,7 @@
   "%num% of total": "%num% az összesből",
   "All estimated rates take into account this pool's %fee%% performance fee": "Az összes becsült árfolyam figyelembe veszi ennek az érdekszövetségnek a %fee% % teljesítménydíját",
   "Sorry, you didn’t contribute enough LP tokens to meet the minimum threshold. You didn’t buy anything in this sale, but you can still reclaim your LP tokens.": "Sajnáljuk, nem tettél hozzá elegendő LP zsetont a minimális küszöbérték eléréséhez. Nem vásároltál semmit ebben az akcióban, de továbbra is visszaszerezheted LP-zsetonjaidat.",
-  "Only applies within 3 days of staking. Ryiptaking after 3 days will not include a fee. Timer resets every time you stake new RYIP in the pool.": "Csak a tétre lekötés 3 napján belül érvényes. A tét lemondása 3 nap után nem tartalmaz díjat. Az időzítő visszaáll minden alkalommal, amikor új RYIP tortát kötsz le tétként az érdekszövetségben.",
+  "Only applies within 3 days of staking. Unstaking after 3 days will not include a fee. Timer resets every time you stake new RYIP in the pool.": "Csak a tétre lekötés 3 napján belül érvényes. A tét lemondása 3 nap után nem tartalmaz díjat. Az időzítő visszaáll minden alkalommal, amikor új RYIP tortát kötsz le tétként az érdekszövetségben.",
   "unstaking fee until": "tét lemondási díja eddig:",
   "unstaking fee if withdrawn within 72h": "tét lemondási díja, ha 72 órán belül visszavonják",
   "Unstaking fee: %fee%%": "Tét lemondási díja: %fee%%",
